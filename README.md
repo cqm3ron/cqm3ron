@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi! I'm Cameron
+I am a novice programmer from Manchester, England.
+Currently, the languages I know are:
+- VB.NET
+- Some basic HTML/CSS/JavaScript knowledge
+
+I also want to learn Python & Java; Python as a basic language because VB is honestly useless, and Java so that I can develop Minecraft mods.
+
+
 
 <!--
 **cqm3ron/cqm3ron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
