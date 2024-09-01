@@ -11,6 +11,7 @@ I also want to learn Python & Java; Python as a basic language because VB is hon
 I have experience in running a whitelist-only Minecraft server, known as BeaconCraft.
 
 I also have a pretty long streak of learning Italian on Duolingo:
+
 ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=cqm3ron)
 
 
