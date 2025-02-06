@@ -15,7 +15,7 @@ I also have a pretty long streak of learning Italian on Duolingo:
 
 ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=cqm3ron)
 
-Check out my website [here](https://cqmeron.online/) (please let me know if that link is broken by opening an issue, I keep changing my domain!)
+Check out my website [here](https://cqmeron.uk/) (please let me know if that link is broken by opening an issue, I keep changing my domain!)
 
 That's all for now. Thanks for checking out my Github and I hope some of my repos will be useful for you :D
 
