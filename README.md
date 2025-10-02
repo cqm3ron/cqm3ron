@@ -4,10 +4,10 @@
 I am a novice programmer & video game enjoyer from Manchester, England.
 Currently, the languages I know are:
 - ✨ VB.NET
-- ⚡ Learning C#
+- ✨ Learning C#
 - 🌱 Very basic HTML/CSS/JavaScript
 
-I also want to learn Python & Java; Python as a basic language because VB is honestly useless, and Java so that I can develop Minecraft mods.
+I also want to learn Python & Java; Python for making Discord bots, and Java so that I can develop Minecraft mods.
 
 Check out my website [here](https://cqmeron.uk/) (please let me know if that link is broken by opening an issue, I keep changing my domain!)
 
