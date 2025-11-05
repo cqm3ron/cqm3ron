@@ -6,6 +6,7 @@ Currently, the languages I know are:
 - ✨ VB.NET
 - ✨ C#
 - 🌱 Very basic HTML/CSS/JavaScript
+- 😠 Spending a lot of time being angry at / confused by Java
 
 I also want to learn Python & Java; Python for making Discord bots, and Java so that I can develop Minecraft mods.
 
